@@ -19,6 +19,8 @@ data class KosukejStatus(
 `//Java`  
 *`// GitHub`*  
 **Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
+*`// RealGitHub`*  
+**Link(Page.GITHUB , " [kosukej](https://github.com/kosukej) ");**  
 *`// Twitter`*  
 **Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
 *`// RealTwitter`*  
