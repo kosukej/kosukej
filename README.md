@@ -21,8 +21,8 @@ data class Alpha9nStatus(
 **Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
 *`// Twitter`*  
 **Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
-*`// RealTwitter`*
-**Link(Page.TWITTER , " [kosukej_hal](https://twitter.com/kosukej_hal) ")**
+*`// RealTwitter`*  
+**Link(Page.TWITTER , " [kosukej_hal](https://twitter.com/kosukej_hal) ")**  
 *`// Discord`*  
 **Link(Page.DISCORD , " [alpha9n#4680](https://discord.gg/user/alpha9n#4680) ");**  
 
