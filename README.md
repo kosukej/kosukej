@@ -1,12 +1,12 @@
-#  あるふぁ / Alpha9n
+#  こうすけ / kosukej
 
 *`// 鯖管理系専門学生`*  
 
 ## 🔷自己紹介 / Introduction
 `//Kotlin`
 ```
-data class Alpha9nStatus(
-    val handleName = "Alpha9n(あるふぁ)"
+data class KosukejStatus(
+    val handleName = "kosukej"
     val realName = "神保 恒介(じんぼ こうすけ)",
     val age = (LocalDate.now() - LocalDate.of(2003, 8, 4)),
     var mainLanguages = mutableListOf("Java", "Kotlin")
